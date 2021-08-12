@@ -5,7 +5,6 @@
 //   creditos:
 //   Gregorio17 
 //============ 
-============\\
 const { 
   WAConnection,
   MessageType,
