@@ -4,7 +4,7 @@
 // + Si modificaras, manten los
 //   creditos:
 //   Gregorio17 
-//============ 
+
 const { 
   WAConnection,
   MessageType,
